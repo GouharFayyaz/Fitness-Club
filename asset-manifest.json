@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fitness-Club/static/css/main.e4dfd656.css",
-    "main.js": "/Fitness-Club/static/js/main.ead7209d.js",
+    "main.js": "/Fitness-Club/static/js/main.f5403137.js",
     "static/media/class2.png": "/Fitness-Club/static/media/class2.6ba4eae004357d563192.png",
     "static/media/schedule1.png": "/Fitness-Club/static/media/schedule1.858bc830c06ca831c0f0.png",
     "static/media/about2.jpg": "/Fitness-Club/static/media/about2.a703fc58fda8fe7cceb4.jpg",
@@ -18,10 +18,10 @@
     "static/media/price3.jpg": "/Fitness-Club/static/media/price3.a8f9dbf00eb08177cc68.jpg",
     "index.html": "/Fitness-Club/index.html",
     "main.e4dfd656.css.map": "/Fitness-Club/static/css/main.e4dfd656.css.map",
-    "main.ead7209d.js.map": "/Fitness-Club/static/js/main.ead7209d.js.map"
+    "main.f5403137.js.map": "/Fitness-Club/static/js/main.f5403137.js.map"
   },
   "entrypoints": [
     "static/css/main.e4dfd656.css",
-    "static/js/main.ead7209d.js"
+    "static/js/main.f5403137.js"
   ]
 }
