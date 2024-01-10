@@ -46,7 +46,7 @@ export default class Footer extends Component {
                             </div>
                         </div>
                         <hr style={{color:"silver"}} />
-                        <p className='text-white py-3'>PowerBy © Ali Ahmad</p>
+                        <p className='text-white py-3'>PowerBy © Gouhar Fayyaz</p>
                       </div>
                   </div>
               </div>
